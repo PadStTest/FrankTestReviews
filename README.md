@@ -3,6 +3,3 @@
 
 issues
 test
-dd
-ok
-ok
